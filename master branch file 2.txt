@@ -1,1 +1,2 @@
 new file in master branch
+new line in file 2
